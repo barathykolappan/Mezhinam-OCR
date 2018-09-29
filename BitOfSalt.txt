@@ -1,0 +1,4 @@
+The detected drawbacks of the current commit are,
+-->Comparably Sluggish in detection
+-->Tested for individual words(claimed accuracy)
+-->Sentence detection model yet to be adopted
